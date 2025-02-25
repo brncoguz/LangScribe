@@ -1,1 +1,1 @@
-# LangTangle
+# LangScribe
