@@ -109,7 +109,7 @@ LangChain provides an extensive set of tools for AI pipeline construction, often
 
 **Repeats revision cycle until max iterations are reached**
 
-## Graph 
+## Workflow graph 
 ![image](https://github.com/user-attachments/assets/be0214bc-aae0-4f23-aac5-2bc4e43811e9)
 
 
