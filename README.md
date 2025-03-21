@@ -8,12 +8,6 @@
 5. Critique & Revision: It reflects, critiques, and improves the essay iteratively.
 
 ## Example Output
-
-**User Input:**
-```
-“What is the difference between LangChain and LangSmith?”
-```
-
 ```
 ╭────────────────────────╮
 │ 🤖 Essay Writing Agent │
